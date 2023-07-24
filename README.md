@@ -1,3 +1,5 @@
+# THIS FORK IS FOR TESTING AND PLANNING
+#
 # WELCOME!
 This is the gathering place for the **Code for Climate 2023**
 
