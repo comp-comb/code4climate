@@ -28,6 +28,8 @@ Today we will delve deeper into Python coding and learn its grammar and vocabula
 
 #
 
+Note: The decision process of whether to use Google or laptop is a conditional assessment. In [pseudocode](https://en.wikipedia.org/wiki/Pseudocode) terms:
+
     IF you have Google account
       Use Google Colab to run remotely
     ELIF your laptop has Ananconda installed
