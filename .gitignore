@@ -1,0 +1,4 @@
+# Microsoft PowerPoint temporary and lock files
+~$*.ppt*
+*.tmp
+
